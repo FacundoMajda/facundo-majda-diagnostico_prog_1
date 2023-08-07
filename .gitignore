@@ -1,0 +1,17 @@
+.env
+node_modules
+__pycache__
+.log
+tmp
+.idea/workspace.xml
+.idea
+idea
+.pyc
+.o
+.DS_Store
+Thumbs.db
+debug.log
+foo.log
+.log
+logs/debug.log
+*.log
